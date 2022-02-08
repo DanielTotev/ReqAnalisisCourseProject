@@ -1,0 +1,9 @@
+org\pu\fmi\requirement\engineering\model\Reservation.class
+org\pu\fmi\requirement\engineering\model\Seat.class
+org\pu\fmi\requirement\engineering\manager\MovieProjectionManager.class
+org\pu\fmi\requirement\engineering\model\ReservationRequest.class
+org\pu\fmi\requirement\engineering\model\Room.class
+org\pu\fmi\requirement\engineering\exception\InvalidReservationTimeException.class
+org\pu\fmi\requirement\engineering\exception\SeatAlreadyReservedException.class
+org\pu\fmi\requirement\engineering\model\User.class
+org\pu\fmi\requirement\engineering\model\MovieProjection.class
